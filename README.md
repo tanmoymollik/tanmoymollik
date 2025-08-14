@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tanmoymollik
-- 👀 I’m interested in Computer Architecture, Operating Systems and Embedded Systems
-- 🌱 I’m currently learning Android Development, Computer Architecture and Linux
-- 💞️ I’m looking to collaborate on Computer Architecture, Operating Systems and Embedded Systems
-- 📫 How to reach me (fnd.shuvo22@gmail.com - +33754017760)
+- 👋 Hi, I’m Tanmoy Mollik. You can find me as @triploblastic on the internet.
+- 👀 I’m interested in Computer Architecture, Compilers, Operating Systems and Embedded Systems. I have done a bit of Android and iOS Development as well.
+- 🌱 I’m currently learning Compiler Internals and trying to write a C Compiler in Rust.
+- 💞️ I’m looking to collaborate on Compilers, Operating Systems and Embedded Systems.
+- 📫 How to reach me: fnd.shuvo22@gmail.com
 
 <!---
 tanmoymollik/tanmoymollik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
